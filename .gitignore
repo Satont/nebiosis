@@ -1,0 +1,8 @@
+# files
+.env
+.env.local
+
+# folders
+build
+node_modules
+database.sqlite
